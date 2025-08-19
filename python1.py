@@ -1,1 +1,1 @@
-print("bonjour")
+x = 1+int(input("Entrez un nombre: "))
